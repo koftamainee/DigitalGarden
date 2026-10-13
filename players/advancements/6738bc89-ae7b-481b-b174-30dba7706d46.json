@@ -6843,15 +6843,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/poplar_boat": {
-    "criteria": {
-      "in_water": "2026-10-13 12:43:46 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/poplar_chest_boat": {
     "criteria": {
       "has_boat": "2026-10-13 12:43:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/poplar_boat": {
+    "criteria": {
+      "in_water": "2026-10-13 12:43:46 +0300"
     },
     "done": true
   },
